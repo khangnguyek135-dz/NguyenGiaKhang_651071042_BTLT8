@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LapTrinhTrucQuan\\BTLT9\\Cau3_QLDiemSinhVien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB72EA62-2B0F-408F-B257-73B4F0ECDBFD}|Cau3_QLDiemSinhVien.csproj|d:\\laptrinhtrucquan\\btlt9\\cau3_qldiemsinhvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB72EA62-2B0F-408F-B257-73B4F0ECDBFD}|Cau3_QLDiemSinhVien.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB72EA62-2B0F-408F-B257-73B4F0ECDBFD}|Cau3_QLDiemSinhVien.csproj|d:\\laptrinhtrucquan\\btlt9\\cau3_qldiemsinhvien\\models\\quanlydiemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB72EA62-2B0F-408F-B257-73B4F0ECDBFD}|Cau3_QLDiemSinhVien.csproj|solutionrelative:models\\quanlydiemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB72EA62-2B0F-408F-B257-73B4F0ECDBFD}|Cau3_QLDiemSinhVien.csproj|d:\\laptrinhtrucquan\\btlt9\\cau3_qldiemsinhvien\\cau3_qldiemsinhvien.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AB72EA62-2B0F-408F-B257-73B4F0ECDBFD}|Cau3_QLDiemSinhVien.csproj|solutionrelative:cau3_qldiemsinhvien.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB72EA62-2B0F-408F-B257-73B4F0ECDBFD}|Cau3_QLDiemSinhVien.csproj|d:\\laptrinhtrucquan\\btlt9\\cau3_qldiemsinhvien\\printers\\phieudiemprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB72EA62-2B0F-408F-B257-73B4F0ECDBFD}|Cau3_QLDiemSinhVien.csproj|solutionrelative:printers\\phieudiemprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB72EA62-2B0F-408F-B257-73B4F0ECDBFD}|Cau3_QLDiemSinhVien.csproj|d:\\laptrinhtrucquan\\btlt9\\cau3_qldiemsinhvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB72EA62-2B0F-408F-B257-73B4F0ECDBFD}|Cau3_QLDiemSinhVien.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PhieuDiemPrinter.cs",
+              "DocumentMoniker": "D:\\LapTrinhTrucQuan\\BTLT9\\Cau3_QLDiemSinhVien\\Printers\\PhieuDiemPrinter.cs",
+              "RelativeDocumentMoniker": "Printers\\PhieuDiemPrinter.cs",
+              "ToolTip": "D:\\LapTrinhTrucQuan\\BTLT9\\Cau3_QLDiemSinhVien\\Printers\\PhieuDiemPrinter.cs",
+              "RelativeToolTip": "Printers\\PhieuDiemPrinter.cs",
+              "ViewState": "AgIAAMUAAAAAAAAAAAAAwNAAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T03:14:44.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cau3_QLDiemSinhVien",
+              "DocumentMoniker": "D:\\LapTrinhTrucQuan\\BTLT9\\Cau3_QLDiemSinhVien\\Cau3_QLDiemSinhVien.csproj",
+              "RelativeDocumentMoniker": "Cau3_QLDiemSinhVien.csproj",
+              "ToolTip": "D:\\LapTrinhTrucQuan\\BTLT9\\Cau3_QLDiemSinhVien\\Cau3_QLDiemSinhVien.csproj",
+              "RelativeToolTip": "Cau3_QLDiemSinhVien.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-12T03:14:25.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuanLyDiemContext.cs",
+              "DocumentMoniker": "D:\\LapTrinhTrucQuan\\BTLT9\\Cau3_QLDiemSinhVien\\Models\\QuanLyDiemContext.cs",
+              "RelativeDocumentMoniker": "Models\\QuanLyDiemContext.cs",
+              "ToolTip": "D:\\LapTrinhTrucQuan\\BTLT9\\Cau3_QLDiemSinhVien\\Models\\QuanLyDiemContext.cs",
+              "RelativeToolTip": "Models\\QuanLyDiemContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T03:09:34.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\LapTrinhTrucQuan\\BTLT9\\Cau3_QLDiemSinhVien\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\LapTrinhTrucQuan\\BTLT9\\Cau3_QLDiemSinhVien\\Form1.cs [Design]*",
+              "RelativeToolTip": "Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T03:02:18.141Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\LapTrinhTrucQuan\\BTLT9\\Cau3_QLDiemSinhVien\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\LapTrinhTrucQuan\\BTLT9\\Cau3_QLDiemSinhVien\\Form1.cs*",
+              "RelativeToolTip": "Form1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T03:25:13.545Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
